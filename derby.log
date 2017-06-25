@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jun 22 15:13:42 GMT+01:00 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015c-d026-cb82-00000090c3d8 
+on database directory C:\Users\Andrew\Att_Mgr\attendance_manager with class loader sun.misc.Launcher$AppClassLoader@169b07b 
+Loaded from file:/C:/Users/Andrew/Documents/NetBeansProjects/Attendance%20Manager/libs/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_45-b15
+user.dir=C:\Users\Andrew\Documents\NetBeansProjects\Attendance Manager
+os.name=Windows 8.1
+os.arch=x86
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
